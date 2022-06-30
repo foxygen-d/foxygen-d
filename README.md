@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anastasia</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of Finance and Credit Faculty, beginner Python developer</h3>
 
-<!--
-**foxygen-d/foxygen-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxygen-d&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxygen-d&theme=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxygen-d)](https://github.com/foxygen-d/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a><h2>🏆 LeetCode </h2></a>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=foxygen_d)](https://github.com/foxygen_d/leetcode-stats)
+
+
+<a href="https://www.hackerrank.com/certificates/de85cbe8bbf2"><h2>🏆 HackerRank Certificate </h2></a>
+
+
+![](https://komarev.com/ghpvc/?username=foxygen-d)
