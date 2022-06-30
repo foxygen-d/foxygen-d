@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Anastasia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of Finance and Credit Faculty, beginner Python developer</h3>
+<h3 align="center">Student of Yandex Practicum, beginner Python developer</h3>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxygen-d&theme=github)
@@ -11,7 +11,7 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=foxygen_d)](https://github.com/foxygen_d/leetcode-stats)
 
 
-<a href="https://www.hackerrank.com/certificates/de85cbe8bbf2"><h2>🏆 HackerRank Certificate </h2></a>
+<a href="https://www.hackerrank.com/certificates/de85cbe8bbf2"><h2>🏆 HackerRank Python basic Certificate </h2></a>
 
 
 ![](https://komarev.com/ghpvc/?username=foxygen-d)
