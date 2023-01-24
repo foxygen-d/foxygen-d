@@ -14,4 +14,4 @@
 
 
 <h2>Сертификат Python basic HackerRank </h2>
-![alt text](https://www.hackerrank.com/certificates/de85cbe8bbf2)
+![alt text](https://pictures.s3.yandex.net/resources/sprint2_picture1_1672399951.png)
