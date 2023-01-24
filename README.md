@@ -13,4 +13,5 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=foxygen_d)](https://github.com/foxygen_d/leetcode-stats)
 
 
-<a href="https://www.hackerrank.com/certificates/de85cbe8bbf2"><h2>Сертификат Python basic HackerRank </h2></a>
+<h2>Сертификат Python basic HackerRank </h2>
+![alt text](https://www.hackerrank.com/certificates/iframe/de85cbe8bbf2)
