@@ -22,12 +22,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height=30px/></h1>
 <h3 align="center">Студент Яндекс.Практикума, начинающий бэкенд-разработчик</h3>
 
-### :woman_technologist: About Me :
 
+### :woman_technologist: About Me :
+Я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы
 
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-plain-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 
 
 ### :fire: My Stats :
