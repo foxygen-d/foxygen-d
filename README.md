@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=hh.ru&logoColor=white%22%20alt=%22hh.ru%20Badge"/>
   </a>
   <a href="https://career.habr.com/foxygend">
-    <img src="https://img.shields.io/badge/Habr%20career-white?style=for-the-badge&logo=habr&logoColor=white%22%20alt=%22Habr%20Badge"/>
+    <img src="https://img.shields.io/badge/Habr%20career-blue?style=for-the-badge&logo=habr&logoColor=blue%22%20alt=%22Habr%20Badge"/>
   </a>
 </div>
 <img src="https://foxygen-d.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
