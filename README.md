@@ -20,15 +20,16 @@
 
 <h1 align="center">Привет, меня зовут Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height=30px/></h1>
-<h3 align="center">Студент Яндекс.Практикума, начинающий бэкенд-разработчик</h3>
-
-
-### :woman_technologist: About Me :
-Я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 👩‍💻 About Me :
+Я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы
+* 📖 Студент Яндекс.Практикума, начинающий Python-разработчик
+
+---
+
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width=70px/>&nbsp;
@@ -43,7 +44,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxygen-d&theme=buefy)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxygen-d&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
