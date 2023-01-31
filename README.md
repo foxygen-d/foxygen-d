@@ -12,7 +12,10 @@
   <a href="https://career.habr.com/foxygend">
     <img src="https://img.shields.io/badge/Habr%20career-blue?style=for-the-badge&logo=habr&logoColor=blue%22%20alt=%22Habr%20Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=foxygen-d&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=foxygen-d&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">Привет, меня зовут Анастасия</a> 
