@@ -18,10 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=foxygen-d&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Привет, меня зовут Анастасия
-
-
-
+<div align="center">
+  <b>Привет, меня зовут Анастасия</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
 
 ---
 
@@ -58,5 +58,5 @@
 
 ### 🏆 My Achievements :
 
-<a><h2>LeetCode </h2></a>
+#### LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=foxygen_d)](https://github.com/foxygen_d/leetcode-stats)
