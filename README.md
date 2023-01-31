@@ -19,9 +19,18 @@
 </div>
 
 <h1 align="center">Привет, меня зовут Анастасия</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height=30px/></h1>
 <h3 align="center">Студент Яндекс.Практикума, начинающий бэкенд-разработчик</h3>
 
+### :woman_technologist: About Me :
+
+
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+
+### :fire: My Stats :
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxygen-d&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxygen-d&theme=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxygen-d)](https://github.com/foxygen-d/github-readme-stats)
