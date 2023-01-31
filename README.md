@@ -42,9 +42,8 @@
 
 ### :fire: My Stats :
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxygen-d&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxygen-d&theme=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxygen-d)](https://github.com/foxygen-d/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxygen-d&theme=buefy)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>🏆 Мои достижения: </h1>
 
