@@ -1,3 +1,20 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/mwlite/in/анастасия-домнина-4a2152263">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://hh.ru/applicant/resumes/view?resume=72dfcb79ff07b5d6700039ed1f46665030344a">
+    <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=hh.ru&logoColor=white%22%20alt=%22hh.ru%20Badge"/>
+  </a>
+  <a href="https://career.habr.com/foxygend">
+    <img src="https://img.shields.io/badge/Habr%20career-white?style=for-the-badge&logo=habr&logoColor=white%22%20alt=%22Habr%20Badge"/>
+  </a>
+</div>
+<img src="https://foxygen-d.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 <h1 align="center">Привет, меня зовут Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент Яндекс.Практикума, начинающий бэкенд-разработчик</h3>
