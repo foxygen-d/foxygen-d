@@ -26,6 +26,7 @@
 ### :woman_technologist: About Me :
 Я Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -39,13 +40,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width=80px/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width=90px/>&nbsp;
 </div>
+
 ---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxygen-d&theme=buefy)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxygen-d&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>🏆 Мои достижения: </h1>
+---
+
+### 🏆 My Achievements :
 
 <a><h2>LeetCode </h2></a>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=foxygen_d)](https://github.com/foxygen_d/leetcode-stats)
