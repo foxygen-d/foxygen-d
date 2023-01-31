@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=foxygen-d&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
+<h1 align="center">
   Привет, меня зовут Анастасия
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -30,7 +30,7 @@
 
   📖 Студент Яндекс.Практикума
 
-  В свободное время 
+  ⚡ В свободное время решаю задачи на платформах HackerRank и Leetcode
 
 ---
 
