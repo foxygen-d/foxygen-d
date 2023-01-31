@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width=80px/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width=90px/>&nbsp;
 </div>
-
+---
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxygen-d&theme=buefy)](https://git.io/streak-stats)
@@ -49,6 +49,3 @@
 
 <a><h2>LeetCode </h2></a>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=foxygen_d)](https://github.com/foxygen_d/leetcode-stats)
-
-
-<a href="https://www.hackerrank.com/certificates/de85cbe8bbf2"><h2>Сертификат Python basic HackerRank </h2></a>
