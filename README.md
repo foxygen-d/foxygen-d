@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Habr%20career-blue?style=for-the-badge&logo=habr&logoColor=blue%22%20alt=%22Habr%20Badge"/>
   </a>
 </div>
-<img src="https://foxygen-d.com/ghpvc/?username=foxygen-d&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=foxygen-d&style=flat-square&color=blue" alt=""/>
 
 <h1 align="center">Привет, меня зовут Анастасия</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
