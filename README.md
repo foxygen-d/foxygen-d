@@ -32,7 +32,7 @@
 
 ⚡ В свободное время решаю задачи на платформах HackerRank и Leetcode
 
-📲 Связаться со мной: [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ness_D)
+📲 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/Ness_D)
 
 ---
 
