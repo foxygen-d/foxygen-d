@@ -22,9 +22,7 @@
 
 Привет, меня зовут Анастасия <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-Я начинающий Python-разработчик из Москвы
-
-💻 Учусь в Яндекс.Практикуме
+💻 Я начинающий Python-разработчик из Москвы
 
 ⚡ В свободное время решаю задачи на платформах HackerRank и Leetcode
 
@@ -50,14 +48,14 @@
 
 ---
 
-### 🔥 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxygen-d&theme=buefy)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxygen-d&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🏆 My Achievements :
 
 #### LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=foxygen_d)](https://github.com/foxygen_d/leetcode-stats)
+
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=foxygen-d&theme=buefy)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxygen-d&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
